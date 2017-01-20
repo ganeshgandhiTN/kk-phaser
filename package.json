@@ -10,7 +10,7 @@
   "license": "MIT",
   "licenseUrl": "http://www.opensource.org/licenses/mit-license.php",
   "main": "./dist/phaser-minimum.js",
-  "files": ["dist/phaser-minimum.js", "dist/pixi.js"],
+  "files": ["dist/phaser.js", "dist/pixi.js"],
   "repository": {
     "type": "git",
     "url": "https://github.com/kielikone/kk-phaser.git"
