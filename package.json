@@ -9,7 +9,7 @@
   "bugs": "https://github.com/photonstorm/phaser/issues",
   "license": "MIT",
   "licenseUrl": "http://www.opensource.org/licenses/mit-license.php",
-  "main": "./dist/phaser-minimum.js",
+  "main": "./dist/phaser.js",
   "files": ["dist/phaser.js", "dist/pixi.js"],
   "repository": {
     "type": "git",
