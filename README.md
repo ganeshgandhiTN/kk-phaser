@@ -9,4 +9,4 @@ Currently excluded modules: 'gamepad,keyboard,bitmapdata,rendertexture,bitmaptex
 
 Remember to add --split flag when building as PIXI and Phaser need to come in separate packages. Example build command:
 
-grunt custom --split true --filename phaser --exclude gamepad,keyboard,bitmapdata,rendertexture,bitmaptext,retrofont,net,sound,debug,arcade,ninja,p2,tilemaps,particles,creature,video,rope,tilesprite,weapon
+grunt custom --uglify true --split true --filename phaser --exclude gamepad,keyboard,bitmapdata,rendertexture,bitmaptext,retrofont,net,sound,debug,arcade,ninja,p2,tilemaps,particles,creature,video,rope,tilesprite,weapon
